@@ -1,0 +1,6 @@
+pt/upa/ca/ws/exceptions/AbstractException.class
+pt/upa/ca/ws/Authority.class
+pt/upa/handler/CAHandler.class
+pt/upa/ca/ws/AuthorityMain.class
+pt/upa/ca/ws/exceptions/UnavaliableCertificateException.class
+pt/upa/ca/ws/AuthorityImpl.class
